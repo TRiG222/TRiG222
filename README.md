@@ -1,2 +1,15 @@
 - 👋 Hi, I’m @TRiG222
-- Contact with me : https://twitter.com/TRiG1337
+- You can find me on  [![Twitter][1.2]][1]
+
+
+<!-- Actual text -->
+
+
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/TRiG1337
